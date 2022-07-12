@@ -1,0 +1,23 @@
+header {
+    padding: 1rem;
+    background-color: #354250;
+}
+
+.logo {
+    width: 50px;
+    margin-left: 1rem;
+}
+
+main {
+    background-color: #223343;
+    height: 100%;
+}
+
+.card {
+    background-color: #354250;
+    border-radius: 0;
+}
+
+.card .card-title {
+    font-weight: bold;
+}
